@@ -95,6 +95,9 @@ The design utilizes a **Three-Tier Hierarchical Model**:
 ### Routing Table (OSPF)
 ![Routing](screenshots/OSPF.png)
 
+### DHCP Configuration
+![DHCP](screenshots/DHCP.png)
+
 ### Ping Pc
 ![Ping Pc](screenshots/Ping.png)
 
