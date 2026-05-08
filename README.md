@@ -84,6 +84,20 @@ The design utilizes a **Three-Tier Hierarchical Model**:
 - Centralized AAA authentication  
 
 ---
+## 📸 Screenshots
+
+### Network Topology
+![Network Topology](screenshots/Topology.png)
+
+### VLAN Configuration
+![VLAN Configuration](screenshots/Vlan.png)
+
+### Routing Table (OSPF)
+![Routing](screenshots/OSPF.png)
+
+### Ping Pc
+![Ping Pc](screenshots/Ping.png)
+
 
 ## Project Members
 - Ambreen Naeem  
